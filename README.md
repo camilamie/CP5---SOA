@@ -1,6 +1,5 @@
-# Checkpoint 4 - SOA e WebServices
+# Checkpoint 5 - SOA e WebServices
 
-API ReST desenvolvida com **Spring Boot** para gerenciamento e agendamento de instruções de uma **auto-escola**.
 
 ## Integrantes
 
